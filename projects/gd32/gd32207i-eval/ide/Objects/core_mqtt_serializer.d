@@ -1,0 +1,10 @@
+.\objects\core_mqtt_serializer.o: ..\..\..\..\libraries\coreMQTT\source\core_mqtt_serializer.c
+.\objects\core_mqtt_serializer.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\string.h
+.\objects\core_mqtt_serializer.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\assert.h
+.\objects\core_mqtt_serializer.o: ..\..\..\..\libraries\coreMQTT\source\include\core_mqtt_serializer.h
+.\objects\core_mqtt_serializer.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\core_mqtt_serializer.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\core_mqtt_serializer.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\core_mqtt_serializer.o: ..\..\..\..\vendors\gd32\boards\gd32207i-eval\aws_tests\config_files\core_mqtt_config.h
+.\objects\core_mqtt_serializer.o: ..\..\..\..\libraries\coreMQTT\source\include\core_mqtt_config_defaults.h
+.\objects\core_mqtt_serializer.o: ..\..\..\..\libraries\coreMQTT\source\interface\transport_interface.h

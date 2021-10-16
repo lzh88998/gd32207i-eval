@@ -1,0 +1,12 @@
+.\objects\base64.o: ..\..\..\..\libraries\3rdparty\mbedtls\library\base64.c
+.\objects\base64.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/config.h
+.\objects\base64.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/check_config.h
+.\objects\base64.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\base64.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/base64.h
+.\objects\base64.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\base64.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\base64.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\string.h
+.\objects\base64.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/platform.h
+.\objects\base64.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\base64.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\base64.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\time.h

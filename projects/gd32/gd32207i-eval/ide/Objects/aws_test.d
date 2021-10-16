@@ -1,0 +1,15 @@
+.\objects\aws_test.o: ..\..\..\..\tests\common\aws_test.c
+.\objects\aws_test.o: ..\..\..\..\freertos_kernel\include\FreeRTOS.h
+.\objects\aws_test.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\aws_test.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\aws_test.o: ..\..\..\..\vendors\gd32\boards\gd32207i-eval\aws_tests\config_files\FreeRTOSConfig.h
+.\objects\aws_test.o: ..\..\..\..\libraries\3rdparty\unity\src\unity_internals.h
+.\objects\aws_test.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\setjmp.h
+.\objects\aws_test.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\math.h
+.\objects\aws_test.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\aws_test.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\aws_test.o: ..\..\..\..\freertos_kernel\include\projdefs.h
+.\objects\aws_test.o: ..\..\..\..\freertos_kernel\include\portable.h
+.\objects\aws_test.o: ..\..\..\..\freertos_kernel\include\deprecated_definitions.h
+.\objects\aws_test.o: ..\..\..\..\freertos_kernel\portable\RVDS\ARM_CM3\portmacro.h
+.\objects\aws_test.o: ..\..\..\..\freertos_kernel\include\mpu_wrappers.h

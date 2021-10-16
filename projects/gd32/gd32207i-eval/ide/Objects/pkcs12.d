@@ -1,0 +1,15 @@
+.\objects\pkcs12.o: ..\..\..\..\libraries\3rdparty\mbedtls\library\pkcs12.c
+.\objects\pkcs12.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/config.h
+.\objects\pkcs12.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/check_config.h
+.\objects\pkcs12.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\pkcs12.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/pkcs12.h
+.\objects\pkcs12.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/md.h
+.\objects\pkcs12.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\pkcs12.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/cipher.h
+.\objects\pkcs12.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/platform_util.h
+.\objects\pkcs12.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/asn1.h
+.\objects\pkcs12.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/bignum.h
+.\objects\pkcs12.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pkcs12.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\string.h
+.\objects\pkcs12.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/arc4.h
+.\objects\pkcs12.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/des.h

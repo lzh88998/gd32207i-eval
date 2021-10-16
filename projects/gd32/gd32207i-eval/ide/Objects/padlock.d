@@ -1,0 +1,9 @@
+.\objects\padlock.o: ..\..\..\..\libraries\3rdparty\mbedtls\library\padlock.c
+.\objects\padlock.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/config.h
+.\objects\padlock.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/check_config.h
+.\objects\padlock.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\padlock.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/padlock.h
+.\objects\padlock.o: ..\..\..\..\libraries\3rdparty\mbedtls\include\mbedtls/aes.h
+.\objects\padlock.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\padlock.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\padlock.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\string.h

@@ -1,0 +1,17 @@
+.\objects\port.o: ..\..\..\..\freertos_kernel\portable\RVDS\ARM_CM3\port.c
+.\objects\port.o: ..\..\..\..\freertos_kernel\include\FreeRTOS.h
+.\objects\port.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\port.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\port.o: ..\..\..\..\vendors\gd32\boards\gd32207i-eval\aws_tests\config_files\FreeRTOSConfig.h
+.\objects\port.o: ..\..\..\..\libraries\3rdparty\unity\src\unity_internals.h
+.\objects\port.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\setjmp.h
+.\objects\port.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\math.h
+.\objects\port.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\port.o: C:\Keil_v5_2\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\port.o: ..\..\..\..\freertos_kernel\include\projdefs.h
+.\objects\port.o: ..\..\..\..\freertos_kernel\include\portable.h
+.\objects\port.o: ..\..\..\..\freertos_kernel\include\deprecated_definitions.h
+.\objects\port.o: ..\..\..\..\freertos_kernel\portable\RVDS\ARM_CM3\portmacro.h
+.\objects\port.o: ..\..\..\..\freertos_kernel\include\mpu_wrappers.h
+.\objects\port.o: ..\..\..\..\freertos_kernel\include\task.h
+.\objects\port.o: ..\..\..\..\freertos_kernel\include\list.h
